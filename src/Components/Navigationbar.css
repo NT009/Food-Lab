@@ -1,0 +1,27 @@
+.navigationbar .navbar-brand {
+  color: green;
+  font-weight: 700;
+  font-size: 1.3rem;
+}
+.navigationbar {
+  padding: 0;
+  padding-top: 0.5rem;
+  
+}
+.navigationbar .container-fluid {
+  font-weight: 600;
+  margin: 0px 1.5rem;
+}
+.navigationlink .nav-link {
+  color: green;
+}
+.navigationlink .nav-link:hover {
+  color: rgb(1, 46, 16);
+}
+.navigationlink .nav-link:focus {
+  color: green;
+  border-bottom: 2px solid green;
+}
+.navigationbar_image {
+  height: 3rem;
+}

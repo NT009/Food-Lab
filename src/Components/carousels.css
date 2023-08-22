@@ -1,0 +1,32 @@
+.carouselimg {
+  width: 100%;
+  height: 36.5rem;
+  opacity: 0.75;
+}
+.carousels .carousel-control-next-icon,
+.carousel-control-prev {
+  color: green;
+}
+.carousels .carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 5rem;
+  width: 4rem;
+}
+.carousels .carousel-caption {
+  top: 25%;
+  right: unset;
+}
+.carousels .carousel-caption button.btn.btn-success{
+  display: flex;
+}
+.carousels .carousel-caption p {
+  font-size: 1.5rem;
+  color: black;
+  font-weight: 600;
+  text-align: left;
+}
+.carousels .carousel-caption h2 {
+  color: black;
+  font-weight: 700;
+  text-align: left;
+}

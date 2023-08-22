@@ -1,0 +1,14 @@
+.body_content .card-body {
+  display: block;
+  margin-top: 3rem;
+}
+.home{
+  color: white;
+  background-color: white;
+}
+.home .card-footer,.card-header{
+  background-color: white;
+}
+.home .card-footer{
+  padding: 0px;
+}
